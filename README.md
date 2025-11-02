@@ -3,7 +3,7 @@
 - [⚙️ Instalação PnetLab](#pnetlab)
 - [⚙️ Instalação do Ishare2](#ishare2)
 - [⚙️ Instalação do Client Pack](#client)
-- [⚙️ Referências](#Ref)
+- [⚙️ Referências](#referencias)
 
 ## 🛠️ Instalação do PNETLAB<a id="pnetlab"></a>
 
@@ -32,7 +32,7 @@ wget -O /usr/sbin/ishare2 https://raw.githubusercontent.com/ishare2-org/ishare2-
 🔗 https://mega.nz/file/G5liXYzK#oaSC1Jrh5m0HaNkReirurtrXhIHGw6NOZX3jgus1xqo
 
 
-## 📌 Referências<a id="Ref"></a>
+## 📌 Referências<a id="referencias"></a>
 - **LABHUB:** 🔗 https://labhub.eu.org
 - **ISHARE2:** 🔗 https://github.com/ishare2-org
 
