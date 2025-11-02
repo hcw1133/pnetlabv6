@@ -1,20 +1,20 @@
 # 📜 Índice
 
-- [⚙️ Instalação PnetLab](#pnetlab)
+- [⚙️ Instalação PNETLAB](#pnetlab)
 - [⚙️ Instalação do Ishare2](#ishare2)
 - [⚙️ Instalação do Client Pack](#client)
 - [⚙️ Referências](#referencias)
 
 ## 🛠️ Instalação do PNETLAB<a id="pnetlab"></a>
 
--  Realize o Download do Ubuntu Server 20.04.6 LTS
+-  Realize o Download do Linux Ubuntu Server 20.04.6 LTS
 ```linux
 https://releases.ubuntu.com/20.04.6/ubuntu-20.04.6-live-server-amd64.iso
 ```
 
 -  Instale o Ubuntu Server em um ambiente bare metal ou virtualizado de sua preferência (VMware Workstation, ESXI, Proxmox, Hyper-V, VirtualBox, QEMU, etc)
--  Atualize o Sistema Operacional
--  Realize a instalação do PnetLab utilizando o comando abaixo:
+-  Atualize o Sistema Operacional Linux Ubuntu
+-  Realize a instalação do PNETLAB utilizando o comando abaixo:
 ```linux
 bash -c "$(curl -sL https://drive.labhub.eu.org/0:/upgrades_pnetlab/focal/install_pnetlab_v6.sh)"
 ```
