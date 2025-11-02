@@ -28,11 +28,11 @@ wget -O /usr/sbin/ishare2 https://raw.githubusercontent.com/ishare2-org/ishare2-
 
 ## 🛠️ Instalação do Client Pack<a id="client"></a>
 
-- 👉 Você pode realizar a instalação do Client Pack e acessar os ativos do laboratório através do putty, vnc, etc (se você já tiver o do EVE-NG, é o mesmo)
-https://mega.nz/file/G5liXYzK#oaSC1Jrh5m0HaNkReirurtrXhIHGw6NOZX3jgus1xqo
+- 👉 Você pode realizar a instalação do Client Pack e acessar os ativos do laboratório através do putty, vnc, etc (se você já tiver o do EVE-NG, é o mesmo):
+🔗 https://mega.nz/file/G5liXYzK#oaSC1Jrh5m0HaNkReirurtrXhIHGw6NOZX3jgus1xqo
 
 
 ## 📌 Referências<a id="Ref"></a>
-- **LABHUB:** https://labhub.eu.org
-- **ISHARE2:** https://github.com/ishare2-org
+- **LABHUB:** 🔗 https://labhub.eu.org
+- **ISHARE2:** 🔗 https://github.com/ishare2-org
 
