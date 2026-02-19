@@ -34,7 +34,7 @@ chmod +x install_pnetlab_v6.sh
 ```
 - Execute o instalador
 ```linux
-./install_pnetlab_v6.sh
+sudo ./install_pnetlab_v6.sh
 ```
 - Reinicie o servidor
 ```linux
