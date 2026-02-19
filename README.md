@@ -13,7 +13,6 @@ https://releases.ubuntu.com/20.04.6/ubuntu-20.04.6-live-server-amd64.iso
 ```
 
 -  Instale o Ubuntu Server em um ambiente bare metal ou virtualizado de sua preferência (VMware Workstation, ESXI, Proxmox, Hyper-V, VirtualBox, QEMU, etc)
--  Atualize o Sistema Operacional Linux Ubuntu
 -  Realize a instalação do PNETLAB utilizando o comando abaixo:
 ```linux
 bash -c "$(curl -sL https://drive.labhub.eu.org/0:/upgrades_pnetlab/focal/install_pnetlab_v6.sh)"
