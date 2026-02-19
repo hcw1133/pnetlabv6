@@ -38,7 +38,7 @@ sudo ./install_pnetlab_v6.sh
 ```
 - Reinicie o servidor
 ```linux
-reboot
+sudo reboot
 ```
 - Faça login com usuário root e senha pnet, e continue o setup, após isso, o servidor será reiniciado novamente, e após reiniciar, você poderá acessar o PNETLab pela URL que mostrará na tela inicial de login do Ubuntu.
 
