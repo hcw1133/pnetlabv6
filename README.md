@@ -3,6 +3,7 @@
 - [⚙️ Instalação PNETLAB](#pnetlab)
 - [⚙️ Instalação do Ishare2](#ishare2)
 - [⚙️ Instalação do Client Pack](#client)
+- [⚙️ Instalação do Client Pack](#image)
 - [⚙️ Referências](#referencias)
 
 ## 🛠️ Instalação do PNETLAB<a id="pnetlab"></a>
@@ -55,6 +56,19 @@ wget -O /usr/sbin/ishare2 https://raw.githubusercontent.com/ishare2-org/ishare2-
 
 - **Link**🔗 https://mega.nz/file/G5liXYzK#oaSC1Jrh5m0HaNkReirurtrXhIHGw6NOZX3jgus1xqo
 
+
+## 🛠️ The device image cannot be started. Here are some solutions.<a id="image"></a>
+- Execute o instalador
+```linux
+cat /opt/unetlab/tmp/1/2/wrapper.txt
+```
+error while loading shared libraries: libSDL2-2.0.so.0: cannot open shared object file: No such file or directory
+
+The following solutions
+```linux
+apt update
+apt install -y libsdl2-2.0-0
+```
 
 ## 📌 Referências<a id="referencias"></a>
 - **LABHUB:** 🔗 https://labhub.eu.org
