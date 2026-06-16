@@ -52,9 +52,15 @@ wget -O /usr/sbin/ishare2 https://raw.githubusercontent.com/ishare2-org/ishare2-
 ## 🛠️ Instalação do Client Pack<a id="client"></a>
 
 -  Você pode realizar a instalação do Client Pack e acessar os ativos do laboratório através do putty, vnc, etc (se você já tiver o do EVE-NG, é o mesmo):
+-  Windows
 
 - **Link**🔗 https://mega.nz/file/G5liXYzK#oaSC1Jrh5m0HaNkReirurtrXhIHGw6NOZX3jgus1xqo
 
+  Apple OSX Client Side Intel / Silicon (M1)
+- **Link**🔗 https://www.eve-ng.net/repo/EVE-ClientPackV2.dmg
+
+  Apple OSX Client Side Intel / Silicon New Version
+  - **Link**🔗 https://customers.eve-ng.net/EVE-ClientPackV3.dmg
 
 ## 📌 Referências<a id="referencias"></a>
 - **LABHUB:** 🔗 https://labhub.eu.org
