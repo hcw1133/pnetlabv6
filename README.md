@@ -60,7 +60,7 @@ wget -O /usr/sbin/ishare2 https://raw.githubusercontent.com/ishare2-org/ishare2-
 - **Link**🔗 https://www.eve-ng.net/repo/EVE-ClientPackV2.dmg
 
   Apple OSX Client Side Intel / Silicon New Version
-  - **Link**🔗 https://customers.eve-ng.net/EVE-ClientPackV3.dmg
+- **Link**🔗 https://customers.eve-ng.net/EVE-ClientPackV3.dmg
 
 ## 📌 Referências<a id="referencias"></a>
 - **LABHUB:** 🔗 https://labhub.eu.org
